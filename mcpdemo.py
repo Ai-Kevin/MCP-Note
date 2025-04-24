@@ -1,1 +1,2 @@
 print("MCP")
+print("YYDS")
